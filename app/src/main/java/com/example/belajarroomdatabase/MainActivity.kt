@@ -57,4 +57,6 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent(applicationContext, DataSiswaActivity::class.java))
         }
     }
+
+    private fun updateDataBaru() {}
 }
